@@ -4,4 +4,6 @@
 
 ##### H5 Header
 
-Played around with different headers in Markdwon
+Played around with different headers in Markdown
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
